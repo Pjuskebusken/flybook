@@ -1,10 +1,10 @@
 version = 1
 
 [[analyzers]]
-name = "cxx"
+name = "sql"
 
 [[analyzers]]
-name = "sql"
+name = "cxx"
 
 [[analyzers]]
 name = "docker"
